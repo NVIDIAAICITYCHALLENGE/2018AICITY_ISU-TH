@@ -21,7 +21,7 @@ Additional dependency:
 
 * cv2
 
-## Usage
+## Instruction
 
 `all_p` is used to store all the pickles of detection results, tracking results and conversion matrices. Existing results can be downloaded here: https://drive.google.com/open?id=1gaTrK-odF7ysPovTnqI2a1pVSAVvGy-o
 
